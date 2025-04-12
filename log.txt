@@ -1,0 +1,2 @@
+[2025-01-05 10:04:11.626619] Registered successfully failed: module 'hashlib' has no attribute 'scrypt'
+[2025-01-05 10:04:11.626982] Registration attempted failed: module 'hashlib' has no attribute 'scrypt'

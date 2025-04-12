@@ -1,0 +1,35 @@
+title,author,is_loaned,copies,genre,year
+The Catcher in the Rye,J.D. Salinger,No,3,Fiction,1951
+To Kill a Mockingbird,Harper Lee,Yes,2,Fiction,1960
+1984,George Orwell,Yes,5,Dystopian,1949
+The Great Gatsby,F. Scott Fitzgerald,No,4,Classic,1925
+Moby Dick,Herman Melville,No,1,Adventure,1851
+Pride and Prejudice,Jane Austen,Yes,3,Romance,1813
+War and Peace,Leo Tolstoy,No,2,Historical Fiction,1869
+Great Expectations,Charles Dickens,No,3,Classic,1861
+Crime and Punishment,Fyodor Dostoevsky,Yes,1,Psychological Drama,1866
+The Brothers Karamazov,Fyodor Dostoevsky,No,3,Philosophy,1880
+The Divine Comedy,Dante Alighieri,Yes,1,Epic Poetry,1320
+Jane Eyre,Charlotte Brontë,No,2,Gothic Fiction,1847
+Wuthering Heights,Emily Brontë,No,4,Gothic Romance,1847
+Anna Karenina,Leo Tolstoy,Yes,2,Fiction,1877
+Madame Bovary,Gustave Flaubert,No,3,Realism,1857
+The Iliad,Homer,Yes,1,Epic Poetry,-750
+The Sound and the Fury,William Faulkner,No,2,Modernism,1929
+Invisible Man,Ralph Ellison,Yes,1,Fiction,1952
+Beloved,Toni Morrison,Yes,3,Historical Fiction,1987
+Catch-22,Joseph Heller,No,4,Satire,1961
+Slaughterhouse-Five,Kurt Vonnegut,Yes,2,Science Fiction,1969
+Brave New World,Aldous Huxley,No,5,Dystopian,1932
+Heart of Darkness,Joseph Conrad,Yes,3,Adventure,1899
+The Grapes of Wrath,John Steinbeck,No,2,Fiction,1939
+Of Mice and Men,John Steinbeck,Yes,1,Tragedy,1937
+The Old Man and the Sea,Ernest Hemingway,No,3,Fiction,1952
+The Hobbit,J.R.R. Tolkien,Yes,4,Fantasy,1937
+The Lord of the Rings,J.R.R. Tolkien,Yes,2,Fantasy,1954
+Harry Potter and the Philosopher's Stone,J.K. Rowling,No,7,Fantasy,1997
+A Game of Thrones,George R.R. Martin,Yes,5,Fantasy,1996
+The Name of the Wind,Patrick Rothfuss,No,3,Fantasy,2007
+Mistborn: The Final Empire,Brandon Sanderson,Yes,4,Fantasy,2006
+The Handmaid's Tale,Margaret Atwood,No,3,Dystopian,1985
+The Odyssey,Homer,Yes,2,Epic Poetry,-800
